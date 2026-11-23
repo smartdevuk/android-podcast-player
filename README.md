@@ -1,3 +1,5 @@
+<img src="docs/branding/icon.svg" alt="Android Podcast Player app icon" width="80" height="80">
+
 # Android Podcast Player
 
 **An ad-free podcast player for Android, built with AI.**
